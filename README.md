@@ -1,5 +1,28 @@
-# Vue 3 + Vite
+# Project Vue Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Deskripsi singkat: Aplikasi frontend Country menggunakan Vue 3 dengan Vite.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Teknologi
+- Vue 3
+- Vite
+- Vue Router
+- Axios / Fetch API
+
+## Instalasi
+1. Clone repository:
+```bash
+git clone https://github.com/username/vue-vite-project.git
+cd vue-vite-project
+```
+2. Install dependencies:
+```bash
+npm install
+# atau pakai yarn
+yarn install
+
+```
+2. Menjalankan project:
+```bash
+npm run dev
+# atau yarn dev
+```
